@@ -1,9 +1,9 @@
 # Predicción de Cancelación de Clientes Model Ftness
 
-Proyecto de Data Science para predecir la probabilidad de que un cliente de gimnasio cancele su membresía.
+Proyecto de Data Science para predecir en que canal un cliente cancele su membresía.
 
 ### 🎯 Objetivo de Negocio
-Reducir el churn identificando clientes en riesgo para aplicar estrategias de retención.
+Reducir el churn identificando canales de riesgo para aplicar estrategias de retención.
 
 ### 🛠️ Stack Tecnológico
 - Python, Pandas, Scikit-learn
