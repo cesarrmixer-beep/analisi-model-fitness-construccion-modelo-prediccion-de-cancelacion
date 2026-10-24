@@ -1,4 +1,4 @@
-# Predicción de Cancelación de Clientes Fitness - Modelo de Churn
+# Predicción de Cancelación de Clientes Model Ftness
 
 Proyecto de Data Science para predecir la probabilidad de que un cliente de gimnasio cancele su membresía.
 
