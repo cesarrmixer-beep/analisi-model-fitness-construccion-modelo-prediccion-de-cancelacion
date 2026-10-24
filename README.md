@@ -23,8 +23,3 @@ Reducir la tasa de cancelación (churn) identificando los canales y patrones de 
 Si tomamos en cuenta el contract_period del cluster mas alto '1' es de 1.63 con un life_time de 1.8, y el contract_period del cluster mas bajo '4', podemos obcervar que curiosamente este es de 3.65 con u life_time de 12.7, los clientes estan fiemando contratos por periodos cortos, pero aun asi, la permanencia es prolongada en el caso dela cluster mas bajo, en ambos casos el cluster mas alto tiene un promedio de visitas de 1.2 mientras que el cluster mas bajo tiene 1.8, el cluster mas alto gasta un promedio extra al mes de 120.19 mientras que l cluster mas bajo llega a un promedio de 147.
 
 ### 🚀 Cómo ejecutarlo
-```bash
-gym_model_fitness.ipynb
-
----
-Autor: Cesar R. | Aspirante a Data Analyst en GDL
