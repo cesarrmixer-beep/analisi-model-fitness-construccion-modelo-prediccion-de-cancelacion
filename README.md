@@ -18,6 +18,7 @@ Reducir el churn identificando canales de riesgo para aplicar estrategias de ret
 - Mejor modelo: LogisticRegression 
 
 ### 🚀 Archivo
+- gym_model_fitness.ipynb
 
 ---
 Autor: Cesar R. | Jr. Data Analyst en GDL
